@@ -1,5 +1,5 @@
 # LoL_AutoReport
-Made for the game League of Legends.
+Made for the game League of Legends. </p>
 This is a Python program that reports everyone at the end of a match except for you and everyone in your friendlist. 
 
 ## Important
