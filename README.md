@@ -1,12 +1,12 @@
-# LoL-LCU-Auto-Report
-python script that report every player of the game exept your friend and you 
+# LoL_AutoReport
+This is a Python program that reports everyone at the end of a match except for you and everyone in your friendlist. 
 
 ## How to use
 requirements: python
 ```
 pip install lcu_driver
 ```
-for create a AutoReport.exe 
+to create an exe
 ```
 pip install PyInstaller # if you don't have it
 python3 -O -m PyInstaller AutoReport.py  --onefile -n AutoReport
